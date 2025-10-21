@@ -1,16 +1,31 @@
-# 💀 DeSTroY
+# 💀 DeSTroY — Ethical AI Security Researcher
 
-**AI Security Researcher & Ethical Hacker (Canada)**  
-Participant du **Google VRP 2025** — Spécialisé en sécurité des modèles d'intelligence artificielle.
-
-## Domaines
-- Sécurité des LLMs (Gemini, Mistral, LLaMA…)
-- Prompt injection & adversarial prompts
-- Détection de fuites de contexte et tests défensifs
-
-## Objectif
-Contribuer à renforcer la sécurité et la fiabilité des IA modernes, toujours dans un cadre éthique et responsable.
+**AI & Cybersecurity Researcher** from **Canada** 🇨🇦  
+Participant of the **Google Bug Hunters Program (VRP 2025)**  
 
 ---
 
-> « Le vrai hacker ne détruit pas, il éclaire les zones d’ombre. »
+## 🌐 Areas of Expertise
+- Prompt Injection & Context Leaks in LLMs  
+- Adversarial AI Behavior & Model Robustness  
+- Ethical Hacking & Responsible Disclosure  
+
+---
+
+## 🎯 Mission
+> Strengthen Artificial Intelligence systems through ethical research, transparency, and collaboration.  
+
+All experiments are performed inside isolated, authorized sandboxes and respect responsible disclosure principles.
+
+---
+
+## 📫 Contact
+- GitHub : [github.com/deSTroY81Marauder](https://github.com/deSTroY81Marauder)
+- Email : steevendesrosiers@gmail.com 
+
+---
+
+**“Hack to strengthen, never to harm.”**
+---
+
+[![GitHub Pages](https://img.shields.io/badge/Verified_Researcher-DeSTroY-red?style=for-the-badge&logo=github)](https://destroy81marauder.github.io/destroy-lab-profile/)
